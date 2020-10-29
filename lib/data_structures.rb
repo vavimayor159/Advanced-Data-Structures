@@ -1,0 +1,1 @@
+require 'ruby-2/ElementaryStructures/stack'
